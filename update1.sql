@@ -1,0 +1,1 @@
+UPDATE publishers SET name = 'Prentice Hall' WHERE name = 'PHI';
