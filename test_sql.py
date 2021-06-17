@@ -1,6 +1,5 @@
-    import sqlite3
+import sqlite3
 import os.path
-
 import pytest
 
 
